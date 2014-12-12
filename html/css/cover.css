@@ -225,6 +225,24 @@ body {
 .navbar h2:hover {
   text-decoration: none
 }
+#join_the_hour {
+  background-color: rgb(224,236,14);
+  width: 264px;
+  height: 59px;
+  margin-top:25px;
+  text-align: center;
+}
+#join_the_hour a{
+  font-weight: bold;
+  font-size: 30px;
+}
+.social_link {
+  width:60px;
+  margin-top: -15px;
+}
+.navbar li {
+  margin-left: -8px !important;
+}
 
 
 .masthead-brand {

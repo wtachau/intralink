@@ -56,6 +56,9 @@
             right:0px;
             left:auto;
       }
+      .toggler{
+            left:298px;
+      }
 }
 @media (min-width: 768px) {
       .sidebar {
@@ -69,6 +72,9 @@
       .sidebar.sidebar-right{
             right:0px;
             left:auto;
+      }
+      .toggler{
+            left:546px;
       }
 }
 @media (min-width: 992px) {
@@ -84,6 +90,9 @@
             right:0px;
             left:auto;
       }
+      .toggler{
+            left:546px;
+      }
 }
 @media (min-width: 1200px) {
       .sidebar {
@@ -98,6 +107,9 @@
             right:0px;
             left:auto;
       }
+      .toggler{
+            left:546px;
+      }
 }
 .toggler{
       /*-webkit-background-clip: padding-box;
@@ -108,7 +120,6 @@
       width: 105px;
       height: 100px;
       position: absolute;
-      left:546px;
       cursor: pointer;
       color: white;
       font-size: 100px;
