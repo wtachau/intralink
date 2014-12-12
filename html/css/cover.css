@@ -229,6 +229,10 @@ body {
   font-weight: lighter;
   font-size: 16px;
 }
+.arrow {
+  border:none !important;
+  margin-top:225%;
+}
 
 
 /*
