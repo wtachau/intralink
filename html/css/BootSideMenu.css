@@ -59,7 +59,7 @@
 }
 @media (min-width: 768px) {
       .sidebar {
-            width: 230px;
+            width: 548px;
       }
       .sidebar.sidebar-left{
             left:0px;
@@ -87,7 +87,7 @@
 }
 @media (min-width: 1200px) {
       .sidebar {
-            width: 230px;
+            width: 548px;
       }
       .sidebar.sidebar-left{
             left:0px;
